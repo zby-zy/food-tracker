@@ -3,5 +3,5 @@
 ## Framework
 * Flask
 
-### How to install Django
+### How to install Flask
 `pip install flask`
