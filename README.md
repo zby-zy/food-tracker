@@ -1,2 +1,7 @@
-# food-tracker
-This project is Food Tracker. 
+# Food Tracker
+
+## Framework
+* Flask
+
+### How to install Django
+`pip install flask`
