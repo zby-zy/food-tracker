@@ -4,4 +4,6 @@
 * Flask
 
 ### How to install Flask
-`pip install flask`
+```console
+pip install flask
+```
